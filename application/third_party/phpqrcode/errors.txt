@@ -1,0 +1,874 @@
+2016-08-03 15:12:51: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:52: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:53: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:54: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:54: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:54: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:55: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:55: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>2016-08-03 15:12:55: <!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CETAK PENGIRIMAN</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	
+	<link rel="stylesheet" href="http://localhost/pribadi/pengiriman/assets/css/style.css">
+	
+	<script src="http://localhost/pribadi/pengiriman/assets/template/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+</head>
+  <body class="hold-transition skin-blue layout-boxed sidebar-mini">
+    <div class="wrapper">
+	  <style>
+	@media print {
+		@page {
+		  size: 8.267in 5.5in;
+		  margin: 0;
+		}
+		.header-pt
+		{
+			font-weight:bold;
+		}
+	}
+	.tbl-resi
+	{
+		font-size:11px;
+	}
+	.table-wrapper
+	{
+		border:1px solid gray;
+		border-top:4px solid gray;
+		height:180px;
+		padding-top:5px;
+	}
+	.border-bottom
+	{
+		border-bottom:1px solid gray;
+	}
+	.border-top
+	{
+		border-top:1px solid gray;
+	}
+	.border-left
+	{
+		border-left:1px solid gray;
+	}
+</style>
+
+			
+<div class="content-wrapper print resi">
+	<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  strlen() expects parameter 1 to be string, object given</p>
+<p>Filename: phpqrcode/qrsplit.php</p>
+<p>Line Number: 250</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 522</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 594</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Invalid argument supplied for foreach()</p>
+<p>Filename: phpqrcode/qrinput.php</p>
+<p>Line Number: 688</p>
+
+</div>

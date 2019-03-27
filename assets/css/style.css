@@ -1,0 +1,92 @@
+.filter-wrapper 
+{
+	margin:10px;
+	position:relative !important;
+}
+.form-filter-modal
+{
+	float:right;
+	margin-right:10px;
+}
+.master .alert
+{
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:15px;
+	margin-bottom:0px;
+}
+.dokumen-file
+{
+	margin-bottom:10px;
+}
+.bg-grey
+{
+	background:#222d32;
+	color:#fff;
+}
+
+.m10
+{
+	margin:10px;
+}
+.mt10
+{
+	margin-top:10px;
+}
+.mb10
+{
+	margin-bottom:10px;
+}
+.ml10
+{
+	margin-left:10px;
+}
+.mr10
+{
+	margin-right:10px;
+}
+
+.m5
+{
+	margin:5px;
+}
+.mt5
+{
+	margin-top:5px;
+}
+.mb5
+{
+	margin-bottom:5px;
+}
+.ml5
+{
+	margin-left:5px;
+}
+.mr5
+{
+	margin-right:5px;
+}
+
+
+
+
+
+.print
+{
+	display:none;
+}
+
+@media print {
+	body { margin: 0.5cm; }
+	.print
+	{
+		display:block;
+		overflow:hidden;
+	}
+	.layout-boxed
+	{
+		background:#fff;
+	}
+	
+	
+}
